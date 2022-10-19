@@ -3,7 +3,7 @@
   "name": "Acckenn",
   "address": "0xA1e011c4Eb48AaCCe23362fb6721312b837Ef338",
   "base_currency": "THB",
-  "logo": "https://raw.githubusercontent.com/Acckenn/verified-wallets/main/id/acckenn/logo.png",
+  "logo": "https://raw.githubusercontent.com/acckenn/verified-wallets/main/id/acckenn/logo.png",
   "accepted_tokens": [
     {
       "name": "USD Coin",
