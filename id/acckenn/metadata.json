@@ -2,7 +2,6 @@
   "id": "acckenn",
   "name": "Acckenn",
   "base_currency": "THB",
-  "logo": "https://raw.githubusercontent.com/acckenn/verified-wallets/main/id/acckenn/logo.png",
   "accepted_tokens": [
     {
       "name": "USD Coin",
