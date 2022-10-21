@@ -4,6 +4,13 @@
   "base_currency": "THB",
   "accepted_tokens": [
     {
+      "name": "Token 6 decimals",
+      "address": "0x69C2B2139714919737929be40006D32e548e92b7",
+      "symbol": "TKN6",
+      "decimals": 6,
+      "chainId": 55556
+    },
+    {
       "name": "USD Coin",
       "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
       "symbol": "USDC",
@@ -11,7 +18,7 @@
       "chainId": 137
     },
     {
-      "name": "Binance-Peg BUSD",
+      "name": "Binance USD",
       "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
       "symbol": "BUSD",
       "decimals": 18,
